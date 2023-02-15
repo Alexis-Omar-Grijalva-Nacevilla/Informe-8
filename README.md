@@ -54,6 +54,12 @@ SECCIÓN 15-1	El sistema de los números complejos
 ![image](https://user-images.githubusercontent.com/117738904/219031345-111a4370-1198-47b1-a70d-1cdc36e34ff8.png)
 
 
+![image](https://user-images.githubusercontent.com/117738904/219031982-0d4a7e10-da24-4658-a27f-c5aacfca3c1e.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219032013-63b6012d-3765-45ed-8549-1144c696e8cf.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219032055-37c68b09-ef48-4c34-9b1b-5a9950233c23.png)
+
 
 
 
