@@ -79,6 +79,13 @@ SECCIÓN 15-1	El sistema de los números complejos
 ![image](https://user-images.githubusercontent.com/117738904/219033449-5749de42-58a7-4833-97b4-1755d1f88e2e.png)
 
 
+![image](https://user-images.githubusercontent.com/117738904/219033737-8292a8dc-b952-4605-bcd8-a0e657fad633.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219033897-6b96fc2b-9d5f-4023-9b25-96d080fe9232.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219033977-35884c92-9c7a-4c6c-9fb2-06fc7f85f284.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219034146-18e4d125-8a5b-4dbf-a9b3-108bec787d9b.png)
 
 
 
