@@ -242,12 +242,44 @@ PARTE 2 CIRCUITOS EN PARALELO
  SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
 
 ![image](https://user-images.githubusercontent.com/117738904/219086897-b27a3d52-79db-43bb-b1d8-91e14972106f.png)
-+}
+
 
 ![image](https://user-images.githubusercontent.com/117738904/219087031-28afef9e-62e7-4132-aea4-2400012129ec.png)
 
 
+SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+
+![image](https://user-images.githubusercontent.com/117738904/219087630-b8cae1b9-ece2-4bb7-a5a0-3556f6d0d708.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219087696-aff7608c-2ca7-43fa-81c6-27bf4bc6bb9b.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219087772-e076d7c7-393f-487f-905a-0da34002c777.png)
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO 
+
+SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
+
+![image](https://user-images.githubusercontent.com/117738904/219088229-bae731a3-53c3-455f-844e-252854a8d1d9.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219088374-33436719-e0cb-4412-acb0-63a44486abf3.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219088456-79251804-4c9d-4b93-99d5-b5d585face71.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219088637-57f4ae4b-1569-444c-942f-2032e474e116.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219088726-30001126-d2a0-4aeb-9e6c-c874b698c21c.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219088813-27498e1e-09cd-4040-87e9-a908c08f4ea0.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219088871-d16e45ec-36cc-46a4-8b21-3af8793434cf.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219088951-17e6f6a6-9498-43ef-b87b-6f1e476b8e15.png)
+
+
+
 
 4. VÍDEO
+
+5.CONCLUSIONES
 
 
