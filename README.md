@@ -199,6 +199,55 @@ SECCIÓN 15-1	El sistema de los números complejos
 
 ![image](https://user-images.githubusercontent.com/117738904/219038511-1083de46-dfdf-4d0a-a90b-74f00e15b86d.png)
 
+CAPITUO 16 
+
+PARTE 1: CIRCUITOS EN SERIE 
+
+SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie 
+
+![image](https://user-images.githubusercontent.com/117738904/219085991-5b25e33d-567d-4757-b2e0-a2c5f009de99.png)
+
+SECCIÓN 16–2 Impedancia de circuitos RL en serie
+
+![image](https://user-images.githubusercontent.com/117738904/219086069-6c832074-9aab-4540-98cb-5d9638bb5be7.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086111-55325e78-c00d-480a-83fd-68f6bc7ab516.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086166-2c472ff0-d232-4a65-b5fd-fa65a43bb3f9.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086211-3c29fdc9-4521-4d59-bca2-50f490158b7d.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086229-a6d7fff5-ad6c-4ffb-89fd-39c8188bd2f1.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086281-6934b016-616c-4989-bad8-70f44b05e603.png)
+
+SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+![image](https://user-images.githubusercontent.com/117738904/219086369-a4352d0f-2cfb-46a7-9013-640b2e4f16dd.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086422-684812fe-4cac-4e25-9e99-e98cc04a0589.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086476-36652114-5554-49da-b510-d0771d13688d.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086542-d4e2de20-a221-42eb-82c1-bc356edf7352.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086606-1e975b2f-4a54-4639-9bd9-e969de7f6452.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086691-8c07e9c8-96ea-4a55-9c1b-08478c1788d7.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219086750-0660c799-ab44-4218-966d-2d7fd1957bff.png)
+
+PARTE 2 CIRCUITOS EN PARALELO
+
+ SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
+
+![image](https://user-images.githubusercontent.com/117738904/219086897-b27a3d52-79db-43bb-b1d8-91e14972106f.png)
++}
+
+![image](https://user-images.githubusercontent.com/117738904/219087031-28afef9e-62e7-4132-aea4-2400012129ec.png)
+
+
+
 4. VÍDEO
 
 
