@@ -179,7 +179,26 @@ SECCIÓN 15-1	El sistema de los números complejos
 
 ![image](https://user-images.githubusercontent.com/117738904/219037738-b02b87c6-5393-4f08-b8ad-c5815fb4ed7e.png)
 
+![image](https://user-images.githubusercontent.com/117738904/219037973-65f913db-58e6-4f9d-9067-ead68089a16d.png)
 
-4. VIDEO
+![image](https://user-images.githubusercontent.com/117738904/219038060-c5013834-ab23-4bc2-b486-e0278079499e.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219038091-f6c51c61-d511-4c9c-97a7-4419febd45bd.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219038130-afc20871-42df-4808-b232-f9a2b640f6cc.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219038196-4fe588ce-53e3-45be-9016-04fb1f378b02.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219038262-f008af7b-24e8-4f0c-94b1-2c52e73e22a6.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219038310-bf96086e-144d-4a5b-8181-cc162e79d7c1.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219038412-6a315feb-b422-447c-bbc5-549938120326.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219038471-23b9839f-af93-4f8b-b576-090d97107b54.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219038511-1083de46-dfdf-4d0a-a90b-74f00e15b86d.png)
+
+4. VÍDEO
 
 
