@@ -275,11 +275,24 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/117738904/219088951-17e6f6a6-9498-43ef-b87b-6f1e476b8e15.png)
 
+![image](https://user-images.githubusercontent.com/117738904/219092053-43a4c95f-b70d-492b-bac5-5df0b9ae23f0.png)
 
 
 
 4. VÍDEO
 
 5.CONCLUSIONES
+
+•	La corriente total que circula en un circuito RC en serie o en paralelo siempre se adelanta al voltaje de fuente
+
+•	La impedancia de un circuito se determina midiendo el voltaje aplicado y la corriente total y aplicando luego la ley de Ohm
+
+•	Cuando se aplica un voltaje sinusoidal a un circuito RC, la corriente y todas las caídas de voltaje también son ondas seno.
+
+•	En un inductor ideal, el voltaje siempre aparece 90° por delante de la corriente
+
+•	La corriente total en un circuito RL en serie o en paralelo siempre se retrasa con respecto al voltaje de fuente.
+
+•	La impedancia de un circuito RL varía directamente con la frecuencia
 
 
