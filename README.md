@@ -296,3 +296,8 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 •	La impedancia de un circuito RL varía directamente con la frecuencia
 
 
+6. BIBLIOGRAFIA
+
+Ingeniería Mecaenix. (20 de 02 de 2019). Recuperado el 15 de 02 de 2023, de https://www.ingmecafenix.com/electronica/el-capacitor/
+
+Mecatrónica LATAM. (23 de 04 de 2021). Recuperado el15 de 02 de 2023, de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
