@@ -36,6 +36,16 @@ FECHA: 23/02/2023
 
 2 MARCO TEÓRICO
 
+CAPIT 15
+
+![image](https://user-images.githubusercontent.com/117738904/219433725-17a3bade-1b4e-4f85-80eb-debc1d5595cb.png)
+
+CAPITULO 16
+
+![image](https://user-images.githubusercontent.com/117738904/219433914-d819a955-805d-475a-9ea3-f0d7e6a2b833.png)
+
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
