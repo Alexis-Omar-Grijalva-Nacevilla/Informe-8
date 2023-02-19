@@ -16,7 +16,7 @@ DOCENTE: ING. DARWIN OMAR ALULEMA FLORES
 
 FECHA: 19/02/2023
 
-1. OBJET
+1. OBJETIVOS
 
 •	Usar números complejos para expresar cantidades fasoriales  
 
