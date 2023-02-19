@@ -291,6 +291,8 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 
 4. VÍDEO
 
+https://youtu.be/46CtEWgEFag
+
 5.CONCLUSIONES
 
 •	La corriente total que circula en un circuito RC en serie o en paralelo siempre se adelanta al voltaje de fuente
