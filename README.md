@@ -36,7 +36,7 @@ FECHA: 19/02/2023
 
 2 MARCO TEÓRICO
 
-CAPIT 15
+CAPITULO 15
 
 ![image](https://user-images.githubusercontent.com/117738904/219433725-17a3bade-1b4e-4f85-80eb-debc1d5595cb.png)
 
@@ -49,7 +49,7 @@ CAPITULO 16
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-Cálculos del Capítulo N° 15:
+Cápituo 15
 
 Parte 1: CIRCUITOS EN SERIE
 
