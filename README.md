@@ -14,9 +14,9 @@ INFORME 8
 
 DOCENTE: ING. DARWIN OMAR ALULEMA FLORES
 
-FECHA: 23/02/2023
+FECHA: 19/02/2023
 
-1. OBJETIVOS
+1. OBJET
 
 •	Usar números complejos para expresar cantidades fasoriales  
 
